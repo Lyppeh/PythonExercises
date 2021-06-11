@@ -1,0 +1,12 @@
+a = int(input('Digite um numero que deseja saber a tabuada:'))
+print('{} x 1 = {}'.format(a, a*1))
+print('{} x 2 = {}'.format(a, a*2))
+print('{} x 3 = {}'.format(a, a*3))
+print('{} x 4 = {}'.format(a, a*4))
+print('{} x 5 = {}'.format(a, a*5))
+print('{} x 6 = {}'.format(a, a*6))
+print('{} x 7 = {}'.format(a, a*7))
+print('{} x 8 = {}'.format(a, a*8))
+print('{} x 9 = {}'.format(a, a*9))
+print('{} x 10 = {}'.format(a, a*10))
+
